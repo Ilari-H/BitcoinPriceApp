@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RUpb0GpTZpWCRM2FY2aSn3K8XY84aULGcIwC4OWhmPbAwtMFplem063hCv/GaRhXM8Uc01LWqo0nyQXWqUcIow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilari\\Desktop\\Gradia tehtävät\\Tehtävät\\10.rajapinnat\\T3\\T3.1\\T3.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilari\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ilari\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\ilari\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
