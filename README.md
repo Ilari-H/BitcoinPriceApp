@@ -1,2 +1,2 @@
 # BitcoinPriceApp
-Used for Checking bitcoins price
+Used for checking Bitcoin prices from given timeline
